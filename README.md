@@ -1,5 +1,5 @@
 ###
-<img src="https://github.com/RomanieDelporte/RomanieDelporte/blob/main/banner_github.png" width="30px" color="#2bbc8a">
+<img src="https://github.com/RomanieDelporte/RomanieDelporte/blob/main/banner_github.png" width="80px" color="#2bbc8a">
 
 Romanie Delporte
 Student Graduaat programmeren aan ArteveldeHogeschool
