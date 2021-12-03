@@ -5,7 +5,7 @@ I'm romanie delporte 22 years old and graduated as a junior frontend/full-stack 
 
 ## Some info
 - :sparkles: I'm currently working on an next.js application
-- :book: I'm currently learning next.js
+- :book: I'm currently learning next.js & vue.js
 - :speech_balloon: Ask me everything you want
 - :mailbox: How to reach me: [romaniedelporte.com](https://romaniedelporte.com)
 - :name_badge: Nicknames: Ro, Roma, ...
