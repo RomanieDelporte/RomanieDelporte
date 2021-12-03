@@ -1,7 +1,7 @@
 ###
 Hi There :wave:
 
-I'm romanie delporte 22 years old and graduated as a junior frontend/full-stack developer at Artevelde University of Applied Sciences
+I'm Romanie 22 years old and graduated as a junior frontend/full-stack developer at Artevelde University of Applied Sciences
 
 ## Some info
 - :sparkles: I'm currently working on an next.js application
