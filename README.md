@@ -3,7 +3,7 @@
 - 👋 Hi, I’m @RomanieDelporte
 - 👀 I’m open for collaborations
 - 📫 How to reach me: romaniedelporte230@gmail.com
-- 😀 Technologies: Vue3 - Typescript - Tailwind - Javascript - Vuex - Storybook
+- 😀 Technologies: Vue3 - Typescript - Tailwind - Javascript - Vuex - Storybook - React - Bootstrap - Svelte 
 - 🤯 I'm learning: PHP - Laravel, ...
 
 <!---
