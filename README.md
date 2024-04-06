@@ -3,7 +3,8 @@
 - 👋 Hi, I’m @RomanieDelporte
 - 👀 I’m open for collaborations
 - 📫 How to reach me: romaniedelporte230@gmail.com
-- 😀 Technologies: Vue3 - Typescript - Tailwind - Javascript - Vuex - Storybook - PHP - Laravel
+- 😀 Technologies: Vue3 - Typescript - Tailwind - Javascript - Vuex - Storybook
+- 🤯 I'm learning: PHP - Laravel, ...
 
 <!---
 RomanieDelporte/RomanieDelporte is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
